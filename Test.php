@@ -3,7 +3,7 @@
 class Test extends PHPUnit_Framework_TestCase
 {
 
-	public function Stringers() {
+	public function testStringers() {
 		$this->assertEquals('erick','erick','son iguales');
   	}
 
