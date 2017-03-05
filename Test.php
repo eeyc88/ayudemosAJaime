@@ -4,7 +4,7 @@ class Test extends PHPUnit_Framework_TestCase
 {
 
 	public function WordToWord() {
-		$this->assertEquals(erick,erick);
+		$this->assertEquals(1+1,2);
   	}
 
 }
