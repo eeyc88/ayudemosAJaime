@@ -3,4 +3,7 @@ php:
   - 5.5
   - 5.4
   - hhvm
-script: phpunit Backup.php
+script:
+  - phpunit Backup.php
+  - phpunit Test.php
+
