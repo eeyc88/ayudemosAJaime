@@ -1,7 +1,5 @@
 <?php
 
-$a = 1;
-$b = 1;
-$c = $a + $b;
+echo "Hola soy Erick";
 
 ?>
