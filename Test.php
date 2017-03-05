@@ -1,6 +1,6 @@
 <?php
 
-class Test implements PHPUnit_Framework_TestCase
+class Test extends PHPUnit_Framework_TestCase
 {
 
 	public function testOnePlusOne() {
